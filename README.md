@@ -1,4 +1,3 @@
-
  A collection of Python mini-projects focusing on file handling and error handling. Includes challenges that demonstrate reading, writing, modifying files, and managing runtime errors gracefully.
 
 ---
@@ -91,8 +90,3 @@ python error_handling.py
 * Understand file reading and writing in Python
 * Learn how to handle common runtime errors
 * Build confidence with basic Python scripting
-
-```
-
-
-
